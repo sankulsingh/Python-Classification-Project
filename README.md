@@ -248,3 +248,9 @@ In addition to the main dataset, **the project folder also contains a separate C
 To test the demo, open the main notebook, navigate to the demo section, and provide the sample CSV file using the upload or input method supported by the demo. The system can then generate predicted academic categories for the supplied research-paper abstracts.
 
 This sample file is intended for demonstration and testing purposes. The finalized dataset, `research_abstracts_6000_cleaned.csv`, remains the dataset used for the project's model training and evaluation.
+
+## 16. Live Demo
+
+Try the Research Abstract Classification app here:
+
+[Open the live demo](https://python-classification-project-kefmhd7f9pzkjewbkzkffx.streamlit.app/)
